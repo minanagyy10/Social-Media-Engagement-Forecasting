@@ -72,6 +72,7 @@ This repository contains:
 
 ## 👥 Team Members (Class of 2025)
 
+- Mina Nagy Sobhy
 - Nabil Amir
 - Salah Eldin Mostafa
 - Fares Mohamed
@@ -81,8 +82,6 @@ This repository contains:
 
 ## 🚀 Quick Start
 
-### 1. Clone Repository
-
 ```bash
-git clone [https://github.com/nabilamir1/Social_Media_Engagement_Forecasting.git](https://github.com/nabilamir1/Social_Media_Engagement_Forecasting.git)
+
 cd Social_Media_Engagement_Forecasting
